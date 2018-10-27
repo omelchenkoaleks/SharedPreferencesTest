@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">SharedPreferencesTest</string>
+
+    <!--EditText-->
+    <string name="et_first_name">имя</string>
+    <string name="et_last_name">фамилия</string>
+    <string name="et_person_age">возраст</string>
+
+    <!--Button-->
+    <string name="bt_write">записать</string>
+    <string name="bt_read">прочитать</string>
+    <string name="bt_delete">удалить</string>
+
+    <!--MenuColor-->
+    <string name="menu_white">белый</string>
+    <string name="menu_yellow">желтый</string>
+    <string name="menu_green">зеленый</string>
+
 </resources>
